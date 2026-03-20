@@ -7,8 +7,8 @@
 📌 Instale o projeto com npm:
 
 ```bash
-  npm install Checkbox
-  cd Checkbox
+  npm install checkbox
+  cd checkbox
 ```
     
 ## Autores
